@@ -13,4 +13,4 @@ Input_Data folder includes:
 
 Results folder includes:
 
-(1) Excel: High-level and hourly level scenarios S1-S5 results for four models: MEM, Temoa, energyRt, SECTR
+(1) Excel: High-level and hourly level results of scenarios S1-S5 for four models: MEM, Temoa, energyRt, SECTR
